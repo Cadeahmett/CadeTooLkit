@@ -1,6 +1,6 @@
 ### Ed-Toolkit
 
- <h6><p align="center">Hadii Ad Donayso Inaad Wax Nagu Soo Biiriso <a href="https://t.me/Ed110mo">Halkan Taabo</a></p></h6>
+ <h6><p align="center">Hadii Ad Donayso Inaad Wax Nagu Soo Biiriso <a href="https://t.me/ABDIZAMED_MOHA">Halkan Taabo</a></p></h6>
 
 ---
 <p align="center">
@@ -15,7 +15,7 @@
 ███████╗██████╔╝
 ╚══════╝╚═════╝ 
    ✔Tool name: Ed-TooLkit 
-   ✔Author:  Mr.Ed       .
+   ✔Author:  Mr.ZAMADA      .
    ✔Coded By:Abdizamed moha
 
   </pre>
@@ -237,8 +237,8 @@ Hadi aad wad caqabada la kulanato intaad adeegsanayso toolka <b>Ed-TooLkit</b> F
   <img src="images/Teamlogo.jpg" alt=""/>
 </p> <br>
 <h3><p aling="center">For the additional things 💭 contact us on:</p></h3>
-<a href="https://t.me/">✔  Telegram </a> <b> Not Available 🚫</b><br>
-<a href="https://wa.me/">✔  WhatsApp</a> <b>Not Available 🚫</b><br>
+<a href="https://t.me/ABDIZAMED_MOHA">✔  Telegram </a> <<br>
+<a href="https://wa.me/+252905705112">✔  WhatsApp</a> <b><br>
  <p aling="center"><a href="https://github.com/Abdizamedmoha">✔on GitHub</a><b> Second channel Available </b></p></h4>
 <br>
 <br>
